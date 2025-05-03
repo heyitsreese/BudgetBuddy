@@ -1,0 +1,72 @@
+html, body {
+    background-color: #FFF8E1;
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar-color {
+    background-color: #FFF8E1;
+}
+
+.squada-one-regular {
+    font-family: "Squada One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.arimo-regular {
+    font-family: "Arimo", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.header_pages_text {
+    font-size: 17px;
+    color: #333;
+}
+
+.btn-register {
+    display: inline-flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    border-radius: 6px;
+    background-color: #F4B400;
+    color: #333;
+    font-size: 17px;
+}
+
+.home-content {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.text-section {
+    max-width: 731px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 0 !important; /* force text to align left */
+    padding-left: 0 !important;
+  }
+
+.header_text1 {
+    margin-top: 80px;
+}
+.header_text1, .header_text2 {
+    text-align: justify;
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 25px;
+    margin-left: 60px;
+}
+.header_text3 {
+    text-align: justify;
+    font-size: 20px;
+    color: #000;
+}
