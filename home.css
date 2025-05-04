@@ -70,3 +70,46 @@ html, body {
     font-size: 20px;
     color: #000;
 }
+
+.dev-name {
+    font-size: 70px;
+}
+
+.dev-role {
+    font-size: 50px;
+}
+
+.dev-img {
+    border-radius: 100%;
+    width: 30%;
+}
+
+.dev-links {
+    font-size: 50px;
+}
+
+.spacing {
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 575.98px) {
+    .logo {
+        width: 75px;
+        height: 75px;
+    }
+    .dev-name {
+        font-size: 30px;
+    }
+    .dev-role {
+        font-size: 15px;
+    }
+    .dev-img {
+        width: 75%;
+    }
+    .dev-links {
+        font-size: 20px;
+    }
+    .spacing {
+        margin-right: 5px;
+    }
+}
